@@ -1,0 +1,117 @@
+{
+    "divisions": [
+      {
+        "id": 1,
+        "name": "Dhaka",
+        "districts": [
+          { "id": 1001, "name": "Dhaka" },
+          { "id": 1002, "name": "Faridpur" },
+          { "id": 1003, "name": "Gazipur" },
+          { "id": 1004, "name": "Gopalganj" },
+          { "id": 1005, "name": "Kishoreganj" },
+          { "id": 1006, "name": "Madaripur" },
+          { "id": 1007, "name": "Manikganj" },
+          { "id": 1008, "name": "Munshiganj" },
+          { "id": 1009, "name": "Narayanganj" },
+          { "id": 1010, "name": "Narsingdi" },
+          { "id": 1011, "name": "Rajbari" },
+          { "id": 1012, "name": "Shariatpur" },
+          { "id": 1013, "name": "Tangail" }
+        ]
+      },
+      {
+        "id": 2,
+        "name": "Chattogram",
+        "districts": [
+          { "id": 2001, "name": "Bandarban" },
+          { "id": 2002, "name": "Brahmanbaria" },
+          { "id": 2003, "name": "Chandpur" },
+          { "id": 2004, "name": "Chattogram" },
+          { "id": 2005, "name": "Cox's Bazar" },
+          { "id": 2006, "name": "Cumilla" },
+          { "id": 2007, "name": "Feni" },
+          { "id": 2008, "name": "Khagrachhari" },
+          { "id": 2009, "name": "Lakshmipur" },
+          { "id": 2010, "name": "Noakhali" },
+          { "id": 2011, "name": "Rangamati" }
+        ]
+      },
+      {
+        "id": 3,
+        "name": "Rajshahi",
+        "districts": [
+          { "id": 3001, "name": "Bogra" },
+          { "id": 3002, "name": "Chapainawabganj" },
+          { "id": 3003, "name": "Joypurhat" },
+          { "id": 3004, "name": "Naogaon" },
+          { "id": 3005, "name": "Natore" },
+          { "id": 3006, "name": "Pabna" },
+          { "id": 3007, "name": "Rajshahi" },
+          { "id": 3008, "name": "Sirajganj" }
+        ]
+      },
+      {
+        "id": 4,
+        "name": "Khulna",
+        "districts": [
+          { "id": 4001, "name": "Bagerhat" },
+          { "id": 4002, "name": "Chuadanga" },
+          { "id": 4003, "name": "Jessore" },
+          { "id": 4004, "name": "Jhenaidah" },
+          { "id": 4005, "name": "Khulna" },
+          { "id": 4006, "name": "Kushtia" },
+          { "id": 4007, "name": "Magura" },
+          { "id": 4008, "name": "Meherpur" },
+          { "id": 4009, "name": "Narail" },
+          { "id": 4010, "name": "Satkhira" }
+        ]
+      },
+      {
+        "id": 5,
+        "name": "Barishal",
+        "districts": [
+          { "id": 5001, "name": "Barishal" },
+          { "id": 5002, "name": "Barguna" },
+          { "id": 5003, "name": "Bhola" },
+          { "id": 5004, "name": "Jhalokathi" },
+          { "id": 5005, "name": "Patuakhali" },
+          { "id": 5006, "name": "Pirojpur" }
+        ]
+      },
+      {
+        "id": 6,
+        "name": "Sylhet",
+        "districts": [
+          { "id": 6001, "name": "Habiganj" },
+          { "id": 6002, "name": "Moulvibazar" },
+          { "id": 6003, "name": "Sunamganj" },
+          { "id": 6004, "name": "Sylhet" }
+        ]
+      },
+      {
+        "id": 7,
+        "name": "Rangpur",
+        "districts": [
+          { "id": 7001, "name": "Dinajpur" },
+          { "id": 7002, "name": "Gaibandha" },
+          { "id": 7003, "name": "Kurigram" },
+          { "id": 7004, "name": "Lalmonirhat" },
+          { "id": 7005, "name": "Nilphamari" },
+          { "id": 7006, "name": "Panchagarh" },
+          { "id": 7007, "name": "Rangpur" },
+          { "id": 7008, "name": "Thakurgaon" }
+        ]
+      },
+      {
+        "id": 8,
+        "name": "Mymensingh",
+        "districts": [
+          { "id": 8001, "name": "Jamalpur" },
+          { "id": 8002, "name": "Mymensingh" },
+          { "id": 8003, "name": "Netrokona" },
+          { "id": 8004, "name": "Sherpur" }
+        ]
+      }
+    ]
+  }
+  
